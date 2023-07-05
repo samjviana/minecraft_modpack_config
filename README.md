@@ -19,10 +19,19 @@ Instale apenas o Curse Forge, TLauncher e Hamachi.
 7. Copie o caminho completo dessa pasta que abriu. ![tutorial_5](https://i.imgur.com/Vw3xOV2.png)
 
 ## Configuração do TLauncher
-1. Abra o TLauncher, clique na engrenagem. ![print](link_para_imagem)
-2. Cole o caminho que você acabou de copiar e clique em "Retain". ![print](link_para_imagem)
+1. Abra o TLauncher, clique na engrenagem, e vá em "Configurações". ![tutorial_6](https://i.imgur.com/pMGCoY9.png)
+2. Cole o caminho que você acabou de copiar no campo "Anuário" e clique em "Reter". ![tutorial_7]([link_para_imagem](https://i.imgur.com/WBqpbRd.png))
 3. Feche o TLauncher.
 
 ## Instalação do Forge
-1. Abra o instalador do Forge (que você baixou no início), marque a opção "Install Client" e defina o caminho como o caminho que você copiou antes.
-2. Clique em OK para instalar. ![print](link_para_imagem)
+1. Abra o instalador do Forge (que você baixou no início), marque a opção "Install Client" e defina o caminho como o caminho que você copiou antes (clique no botão e cole o caminho no campo "Nome da pasta"). ![tutorial_8](https://i.imgur.com/yc88zAq.png)
+2. Clique em OK para instalar.
+3. Assim que finalizar a instalação abra o TLauncher novamente, se tudo estiver correto a versão do forge deve aparecer na lista de versões. ![tutorial_9](https://i.imgur.com/bdEf0HM.png)
+
+## Configuração do Hamachi
+1. Abra o Hamachi, logue em sua conta, ou crie uma caso não tenha 
+2. Adicione uma nova rede através da opção "Entrar em uma rede existente"
+* Nome da rede: moc_bhz
+* Senha: 3,14159
+
+Com isso tudo estará pronto e configurado.
