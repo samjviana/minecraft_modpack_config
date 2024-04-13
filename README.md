@@ -31,7 +31,10 @@ Instale apenas o Curse Forge, TLauncher e Hamachi.
 ## Configuração do Hamachi
 1. Abra o Hamachi, logue em sua conta, ou crie uma caso não tenha 
 2. Adicione uma nova rede através da opção "Entrar em uma rede existente"
-* Nome da rede: mine_bhz
-* Senha: 314159
+  * Ao entrar na rede existe a possibilidade dela já estar cheia, caso esteja, entre na próxima da lista
+    * **mine_bhz_1** - 314159
+    * **mine_bhz_2** - 314159
+    * **mine_bhz_3** - 314159
+    * **mine_bhz_4** - 314159
 
 Com isso tudo estará pronto e configurado.
