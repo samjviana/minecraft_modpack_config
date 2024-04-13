@@ -11,7 +11,7 @@ Instale apenas o Curse Forge, TLauncher e Hamachi.
 
 ## Configuração do CurseForge
 1. Após instalar o CurseForge, abra-o, selecione o Minecraft na lista de jogos e deixe a configuração padrão.
-2. Baixe o arquivo Athlio.zip (enviado no Discord) e não extraia.
+2. Baixe o arquivo [SamSamSam.zip](https://discord.com/channels/801958843818049556/925355603151441972/1228517087492968478) (enviado no Discord) e não extraia.
 3. Volte ao CurseForge e Clique no botão "Create Custom Profile" no canto superior direito. ![tutorial_1](https://i.imgur.com/jpMOGya.png)
 4. Clique em "Import" logo abaixo do texto "Create Profile", selecione o arquivo Athlio.zip. ![tutorial_2](https://i.imgur.com/UHTHWAD.png)
 5. Deixe o CurseForge baixar e configurar tudo. Quando terminar, abra o modpack clicando na imagem dele (não no botão play). Deve aparecer 82 mods se tudo estiver correto. ![tutorial_3](https://i.imgur.com/Ka5TAlH.png)
