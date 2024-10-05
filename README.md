@@ -1,7 +1,7 @@
 # Configuração do Modpack Minecraft
 
 ## Downloads necessários
-1. [Forge](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar)
+1. [Forge](https://maven.minecraftforge.net/net/minecraftforge/forge/1.21-51.0.33/forge-1.21-51.0.33-installer.jar)
 3. [Curse Forge](https://download.overwolf.com/install/Download?Name=CurseForge&ExtensionId=cfiahnpaolfnlgaihhmobmnjdafknjnjdpdabpcm)
 4. [TLauncher](https://tlauncher.org/installer)
 5. [Hamachi](https://vpn.net/)
