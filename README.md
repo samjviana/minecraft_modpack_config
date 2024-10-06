@@ -1,7 +1,7 @@
 # Configuração do Modpack Minecraft
 
 ## Downloads necessários
-1. [Forge](https://maven.minecraftforge.net/net/minecraftforge/forge/1.21-51.0.33/forge-1.21-51.0.33-installer.jar)
+1. [NeoForge]([https://maven.minecraftforge.net/net/minecraftforge/forge/1.21-51.0.33/forge-1.21-51.0.33-installer.jar](https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.65/neoforge-21.1.65-installer.jar))
 3. [Curse Forge](https://download.overwolf.com/install/Download?Name=CurseForge&ExtensionId=cfiahnpaolfnlgaihhmobmnjdafknjnjdpdabpcm)
 4. [TLauncher](https://tlauncher.org/installer)
 5. [Hamachi](https://vpn.net/)
@@ -11,7 +11,7 @@ Instale apenas o Curse Forge, TLauncher e Hamachi.
 
 ## Configuração do CurseForge
 1. Após instalar o CurseForge, abra-o, selecione o Minecraft na lista de jogos e deixe a configuração padrão.
-2. Baixe o arquivo [SamSamSam.zip](https://discord.com/channels/801958843818049556/925355603151441972/1228517087492968478) (enviado no Discord) e não extraia.
+2. Baixe o arquivo [Aristóteles.zip](https://discord.com/channels/786754547430981652/786754547430981655/1292197481861484615) (enviado no Discord) e não extraia.
 3. Volte ao CurseForge e Clique no botão "Create Custom Profile" no canto superior direito. ![tutorial_1](https://i.imgur.com/jpMOGya.png)
 4. Clique em "Import" logo abaixo do texto "Create Profile", selecione o arquivo Athlio.zip. ![tutorial_2](https://i.imgur.com/UHTHWAD.png)
 5. Deixe o CurseForge baixar e configurar tudo. Quando terminar, abra o modpack clicando na imagem dele (não no botão play). Deve aparecer 53 mods se tudo estiver correto. ![tutorial_3](https://i.imgur.com/Ka5TAlH.png)
